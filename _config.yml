@@ -11,6 +11,9 @@ color:
     - '#FCFAE1'
     - '#BD8D46'
 layout_spectrum: 0.944115936756134
+author:
+  name: Kurt Walter
+  email: kurtwalter@me.com
 name: The Walters
 title: US
 description: 'Sean, Anna & Kurt'
