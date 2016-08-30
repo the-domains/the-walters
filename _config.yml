@@ -1,4 +1,3 @@
-layout_spectrum: 0.944115936756134
 typography_spectrum: 0.40050160069949925
 color:
   brandStrength: 0.22852013679221272
@@ -11,4 +10,6 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+layout_spectrum: 0.944115936756134
 name: The Walters
+title: US
