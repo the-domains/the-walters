@@ -15,6 +15,10 @@ author:
   name: Kurt Walter
   email: kurtwalter@me.com
 name: The Walters
+navigation:
+  - name: 'Reduced Spoke Bicycles : Conceptual Bike'
+    id: c4ea1972-8542-47b5-bf29-673c9560ff2b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aa41cf0-d2d0-4009-9164-254e7dac1fa9.jpg
 title: US
