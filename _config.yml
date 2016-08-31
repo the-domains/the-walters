@@ -10,6 +10,8 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+opengraph:
+  appId: 'https://www.facebook.com/kurtwalter'
 layout_spectrum: 0.944115936756134
 author:
   name: Kurt Walter
