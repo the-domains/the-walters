@@ -1,3 +1,4 @@
+layout_spectrum: 0.944115936756134
 typography_spectrum: 0.40050160069949925
 color:
   brandStrength: 0.22852013679221272
@@ -5,23 +6,9 @@ color:
   saturation: 0.714333628769964
   rhythmicContrast: 0.34679064620286226
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-opengraph:
-  appId: 'https://www.facebook.com/kurtwalter'
-layout_spectrum: 0.944115936756134
-author:
-  name: Kurt Walter
-  email: kurtwalter@me.com
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: The Walters
-navigation:
-  - name: 'Reduced Spoke Bicycles : Conceptual Bike'
-    id: c4ea1972-8542-47b5-bf29-673c9560ff2b
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aa41cf0-d2d0-4009-9164-254e7dac1fa9.jpg
-title: US
-description: 'Sean, Anna & Kurt'
